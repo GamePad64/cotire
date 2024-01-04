@@ -1,7 +1,8 @@
 repo_name: GamePad64/cotire
 report_id: d06a9b6460af1ac3aeb064c6e2d32612
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:11:07+00:00'
+timestamp: '2024-01-04T14:59:01+00:00'
 requested_by: sakra
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/GamePad64/cotire
   detection_source: Repo Metadata
 - name: CMake
   description: 'An open-source system that manages the build process '
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/GamePad64/cotire
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,4 +37,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/GamePad64/cotire
   detection_source: Repo Metadata
